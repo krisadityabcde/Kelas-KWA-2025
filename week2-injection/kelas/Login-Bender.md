@@ -8,3 +8,5 @@
 1. Melakukan hal yang sama dengan soal Login Jim, namun email Bender dicari tahu pada About Us Page
 
 ![alt text](assets/image3.png)
+
+Soal ini berhasil diselesaikan dikarenakan adanya tutorial yang membantu dalam menyelesaikan step-by-step
