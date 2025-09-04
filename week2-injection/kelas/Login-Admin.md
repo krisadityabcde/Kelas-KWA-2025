@@ -14,6 +14,6 @@
 7. Mencoba upaya lain dengan `' OR true--   `
 8. Berhasil Login dengan akun `admin@juice-sh.op
 
-![alt text](image1.png)
+![alt text](assets/image1.png)
 
 Soal ini berhasil diselesaikan dikarenakan adanya tutorial yang membantu dalam menyelesaikan step-by-step
