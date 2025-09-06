@@ -8,7 +8,7 @@
 1. Mencari tahu email Jim dari email leak di User Reviews
 2. Menemukan email `jim@juice-sh.op` pada user review produk Green Smoothie
 3. Mencoba login dengan password random
-4. Menguunakan upaya SQLi dengan menambahkan `'--` pada kolom email setelah email jim
+4. Menggunakan upaya SQLi dengan menambahkan `'--` pada kolom email setelah email jim
 
 ![alt text](assets/image2.png)
 
